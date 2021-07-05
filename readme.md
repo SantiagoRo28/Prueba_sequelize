@@ -16,3 +16,16 @@ Consideraciones.
 Lamentablemente no se cumplio ningun requisito de la consigna.
 
 ##Nota final del examen 0
+
+###Examen 3 (Sequelize)
+
+-Api 1 : No funciona
+-Api 2 : No funciona
+-Api 3 : No funciona
+-Api 4 : No funciona
+-Api 5 : No funciona
+
+Lamentablemente Santi ninguna de las api's funciona falto implementar
+sequelize no se usaron modelos por que no estaban definidos.
+
+##Nota final del examen 0
